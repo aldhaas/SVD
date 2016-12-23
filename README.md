@@ -1,7 +1,4 @@
-SVD
-===
-
-Singular value decomposition
+SVD [Singular value decomposition]
 
 In linear algebra, the singular value decomposition (SVD) is a factorization of a real or complex matrix, with many useful applications in signal processing and statistics.
 Formally, the singular value decomposition of an m×n real or complex matrix M is a factorization of the form
